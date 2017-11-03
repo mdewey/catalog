@@ -13,7 +13,7 @@
 
 * link:program/README.adoc[Program Description]
 * link:program.adoc[Curriculum Overview]
-** link:program/definition-of-clock-hours.adoc[Definition of Clock Hours]
+* link:program/definition-of-clock-hours.adoc[Definition of Clock Hours]
 * link:program/web-development-program.adoc[Web Development Program]
 * link:program/instructor-office-hours.adoc[Instructor Office Hours]
 * link:program/class-schedule.adoc[Class Schedule]
