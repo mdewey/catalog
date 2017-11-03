@@ -12,7 +12,7 @@
 == Our Full-time Immersive Program
 
 * link:program/README.adoc[Program Description]
-* link:program.adoc[Curriculum Overview]
+* link:program/curriculum.adoc[Curriculum Overview]
 * link:program/definition-of-clock-hours.adoc[Definition of Clock Hours]
 * link:program/web-development-program.adoc[Web Development Program]
 * link:program/instructor-office-hours.adoc[Instructor Office Hours]
