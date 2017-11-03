@@ -1,4 +1,3 @@
-= Program Catalog
+This is the Program Catalog for the Suncoast Developers Guild. Something, something about anything you need to know to be a successful student.
 
-== Suncoast Developers Guild
-
+NOTE: This could be better.
