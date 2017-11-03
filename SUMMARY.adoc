@@ -1,5 +1,3 @@
-= Summary
-
 == About Suncoast Developers Guild
 
 * link:README.adoc[Introduction]
