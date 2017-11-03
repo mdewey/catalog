@@ -15,9 +15,9 @@
 * link:program/curriculum.adoc[Curriculum Overview]
 ** link:program/curriculum/definition-of-clock-hours.adoc[Definition of Clock Hours]
 * link:program/web-development-program.adoc[Web Development Program]
+* link:program/class-schedule/instructor-office-hours.adoc[Instructor Office Hours]
 * link:program/class-schedule.adoc[Class Schedule]
-** Daily Schedule
-** Instructor Office Hours
+* link:program/class-schedule/daily-schedule.adoc[Daily Schedule]
 * link:program/how-do-i-apply.adoc[How do I apply?]
 * link:program/how-much-does-it-cost.adoc[How much does it cost?]
 * link:program/evaluation.adoc[Evaluation]
