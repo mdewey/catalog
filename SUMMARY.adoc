@@ -11,7 +11,7 @@
 
 . link:program/README.adoc[Program Description]
 . link:program/curriculum.adoc[Curriculum Overview]
-. Definition of Clock Hours
+.. Definition of Clock Hours
 . Web Development Program
 . Class Schedule
 .. Daily Schedule
