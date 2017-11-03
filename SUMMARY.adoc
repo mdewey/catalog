@@ -8,7 +8,6 @@
 * link:about/holidays.adoc[Holidays]
 * link:about/facility.adoc[Our Facility]
 
-
 == Our Full-time Immersive Program
 
 * link:program/README.adoc[Program Description]
