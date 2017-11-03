@@ -10,7 +10,7 @@
 == Our Full-time Immersive Program
 
 . link:program/README.adoc[Program Description]
-. Curriculum Overview
+. link:program/curriculum.adoc[Curriculum Overview]
 . Definition of Clock Hours
 . Web Development Program
 . Class Schedule
