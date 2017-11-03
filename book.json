@@ -1,4 +1,7 @@
 {
     "title": "Program Catalog",
-    "plugins": [ "theme-faq" ]
+    "plugins": [ "theme-faq" ],
+    "structure": {
+        "readme": "README.adoc"
+    }
 }
