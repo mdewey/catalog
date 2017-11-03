@@ -1,6 +1,27 @@
 = Summary
 
-== Hey
+== About Suncoast Developers Guild
 
-. link:first-question.md[What is XYZ?]
-. link:second-question.md[How can I do X?]
+. Our Mission
+. The Team
+. Holidays
+. Our Facility
+
+== Our Full-time Immersive Program
+
+. Program Description
+. Curriculum Overview
+. Definition of Clock Hours
+. Web Development Program
+. Class Schedule
+.. Daily Schedule
+.. Instructor Office Hours
+. How do I apply?
+. How much does it cost?
+. Evaluation
+. Job Placement
+. Transcripts
+. Code of Conduct
+. Cancellation and Refund Policy
+. Any Complaints?
+. Notices
