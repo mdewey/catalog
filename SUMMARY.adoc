@@ -2,14 +2,14 @@
 
 == About Suncoast Developers Guild
 
-. Our Mission
-. The Team
-. Holidays
-. Our Facility
+. link:about/README.adoc[Our Mission]
+. link:about/team.adoc[The Team]
+. link:about/holidays.adoc[Holidays]
+. link:about/facility.adoc[Our Facility]
 
 == Our Full-time Immersive Program
 
-. Program Description
+. link:program/README.adoc[Program Description]
 . Curriculum Overview
 . Definition of Clock Hours
 . Web Development Program
