@@ -1,17 +1,17 @@
 == Daily Schedule
 
-[cols="h,,", %header]
+[cols="h,,",options="header"]
 |===
-|          | Mon -- Thu        | Friday
-| 09:00 AM | Instructor's Hour | 
-| 10:00 AM | Class             | Career Support Lecture
-| 11:00 AM | "                 | Weekly Review (or extended Career Support)
-| 12:00 PM | Lunch             | Lunch
-| 01:00 PM | Lab               | Lab
-| 02:00 PM | Review at Two     | Huddles
-| 03:00 PM | Lab               | End of Day (optional social time)
-| 04:00 PM | "                 | 
-| 05:00 PM | End of Day        | 
+|          | Monday -- Thursday | Friday
+| 09:00 AM | Instructor's Hour  | 
+| 10:00 AM | Class              | Career Support Lecture
+| 11:00 AM | "                  | Weekly Review (or extended Career Support)
+| 12:00 PM | Lunch              | Lunch
+| 01:00 PM | Lab                | Lab
+| 02:00 PM | Review at Two      | Huddles
+| 03:00 PM | Lab                | End of Day (optional social time)
+| 04:00 PM | "                  | 
+| 05:00 PM | End of Day         | 
 |===
 
 Daily Content:
