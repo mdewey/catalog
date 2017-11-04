@@ -23,9 +23,10 @@ Assignment:: _Graded_, a small project implementing a whole idea it should requi
 Projects:: _Graded_, larger multi-day (weekend) assignments that build on ideas presented during the week. Usually built from scratch, but may span building and expanding the same application over multiple weeks. A Project is given on Thursday afternoon, and due the following Monday, before class.
 
 Graded work is assigned tasks over three modes:
-  "Explorer" mode focuses on exploring the core concepts, as presented in the content and lectures
-  "Adventure" mode focuses on diving a little deeper, into ideas not necessarily covered in class and will usually require research and investigation
-  "Epic" mode focuses tying abstract ideas together and bringing professional levels of polish and effort
+
+"Explorer" mode:: A focus on exploring the core concepts, as presented in the content and lectures.
+"Adventure" mode:: A deeper dive into ideas not necessarily covered in class and will usually require research and investigation.
+"Epic" mode:: Requires the student to tie abstract ideas together and bring professional levels of polish and effort to the assignment or project.
 
 Career support is a mandatory part of the curriculum.
 Attendance policy is unchanged.
