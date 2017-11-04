@@ -1,0 +1,50 @@
+. Daily Schedule
+[cols="h,*"]
+|===
+|          | Mon -- Thu        | Friday
+| 09:00 AM | Instructor's Hour | 
+| 10:00 AM | Class             | Career Support Lecture
+| 11:00 AM | "                 | Weekly Review (or extended Career Support)
+| 12:00 PM | Lunch             | Lunch
+| 01:00 PM | Lab               | Lab
+| 02:00 PM | Review at 2       | Huddles
+| 03:00 PM | Lab               | End of Day (optional social time)
+| 04:00 PM | "                 | 
+| 05:00 PM | End of Day        | 
+|===
+
+Daily Content:
+  Reading and video content relating information about an idea
+Lab Activity:
+  ungraded, practice implementing a partially complete idea
+  it should closely follow examples in the daily content
+  given most of the idea, just filling in blanks
+Assignment:
+  graded, a small project implementing a whole idea
+  it should require an abstraction of the idea presented earlier,
+  as well as integrated with previously covered concepts
+  usually given _some_ boilerplate
+Projects:
+  graded, larger multi-day (weekend) assignments that build on ideas
+  presented during the week
+  usually built from scratch, but
+  may span building and expanding the same application over multiple weeks
+
+Daily Content is given before every class day, it's released by the end of lunch
+Lab Activities are given M-Th
+Assignments are given M-W
+A Project is given on Thursday
+
+Graded work is assigned tasks over three modes:
+  "Explorer" mode focuses on exploring the core concepts, as presented in the content and lectures
+  "Adventure" mode focuses on diving a little deeper, into ideas not necessarily covered in class and will usually require research and investigation
+  "Epic" mode focuses tying abstract ideas together and bringing professional levels of polish and effort
+
+Career support is a mandatory part of the curriculum.
+Attendance policy is unchanged.
+
+Computer requirements:
+  Suggested computer is a Mac less than two years old.
+  Minimum requirements: 2014 or newer (find specific year/models)
+  PC laptops can be approved for class use on a case by case basis.
+  Approval is part of the interview process.
