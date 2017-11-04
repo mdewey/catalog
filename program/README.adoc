@@ -1,6 +1,6 @@
 == Daily Schedule
 
-[cols="h,^,>"]
+[cols="h,,", %header]
 |===
 |          | Mon -- Thu        | Friday
 | 09:00 AM | Instructor's Hour | 
