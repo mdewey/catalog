@@ -1,5 +1,6 @@
 == Classwork and Homework
 
+[horizontal]
 Daily Content:: Reading and video content relating information about an idea. Daily Content is given before each class day. It's released by the end of lunch on the previous class day, i.e. Monday's content will be released Friday afternoon. Content will consist of a variety of mediums and sources.
 
 Lab Activity:: _Ungraded_, practice implementing a partially complete idea. It should closely follow examples in the daily content. The student is given most of the idea, similar to filling in blanks. Lab Activities are given during class Monday through Thursday, and are completed the same day.
@@ -10,6 +11,7 @@ Projects:: _Graded_, larger multi-day (weekend) assignments that build on ideas 
 
 Graded work is assigned tasks over three modes:
 
+[horizontal]
 "Explorer" mode:: A focus on exploring the core concepts, as presented in the content and lectures.
 "Adventure" mode:: A deeper dive into ideas not necessarily covered in class and will usually require research and investigation.
 "Epic" mode:: Requires the student to tie abstract ideas together and bring professional levels of polish and effort to the assignment or project.
