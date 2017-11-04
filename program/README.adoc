@@ -1,5 +1,6 @@
-. Daily Schedule
-[cols="h,*"]
+== Daily Schedule
+
+[cols="h,^,>"]
 |===
 |          | Mon -- Thu        | Friday
 | 09:00 AM | Instructor's Hour | 
@@ -7,7 +8,7 @@
 | 11:00 AM | "                 | Weekly Review (or extended Career Support)
 | 12:00 PM | Lunch             | Lunch
 | 01:00 PM | Lab               | Lab
-| 02:00 PM | Review at 2       | Huddles
+| 02:00 PM | Review at Two     | Huddles
 | 03:00 PM | Lab               | End of Day (optional social time)
 | 04:00 PM | "                 | 
 | 05:00 PM | End of Day        | 
@@ -43,8 +44,10 @@ Graded work is assigned tasks over three modes:
 Career support is a mandatory part of the curriculum.
 Attendance policy is unchanged.
 
-Computer requirements:
-  Suggested computer is a Mac less than two years old.
-  Minimum requirements: 2014 or newer (find specific year/models)
-  PC laptops can be approved for class use on a case by case basis.
-  Approval is part of the interview process.
+== Computer requirements
+
+Suggested computer is a Mac less than two years old.
+
+*Minimum requirements:* 2014 or newer (find specific year/models)
+PC laptops can be approved for class use on a case by case basis.
+Approval is part of the interview process.
