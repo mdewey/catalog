@@ -1,4 +1,4 @@
-4[cols="h,,",options="header"]
+[cols="h,,",options="header"]
 |===
 |          | Monday -- Thursday | Friday
 | 09:00 AM | Instructor's Hour  | 
