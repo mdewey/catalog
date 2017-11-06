@@ -1,7 +1,7 @@
 [cols="h,,",options="header"]
 |===
 |          | Monday -- Thursday | Friday
-| 09:00 AM | Instructor's Hour  | 
+| 09:00 AM | Instructor's Hour  | Career Support Lab
 | 10:00 AM | Class              | Career Support Lecture
 | 11:00 AM | "                  | Weekly Review (or extended Career Support)
 | 12:00 PM | Lunch              | Lunch
