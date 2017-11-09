@@ -63,6 +63,6 @@ $$
 \end{aligned}
 $$
 
-== Academic Credit
+== Transfer of Academic Credit
 
-We do not accept any transfer credits and we cannot offer any academic credit when you complete the program.
+We do not accept any transfer credits or clock hours and we cannot offer any academic credit when you complete the program. Transfer of clock hours earned at Suncoast Developers Guild is at the discretion of the accepting institution.
