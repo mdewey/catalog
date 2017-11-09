@@ -5,8 +5,8 @@
 * link:README.adoc[Introduction]
 * link:about/README.adoc[Our Mission]
 * link:about/team.adoc[The Team]
-* link:about/holidays.adoc[Holidays]
 * link:about/facility.adoc[Our Facility]
+* link:about/holidays.adoc[Observed Holidays]
 
 == Our Full-time Immersive Program
 
