@@ -1,7 +1,7 @@
 == Career Support
 
 - Curriculum includes lectures, mentoring, and coaching on (but not limited to): interview techniques, decoding technical job descriptions, resume writing workshops, and portfolio building.
-- Potential employers are invited to Demo Day events that showcase the skills and work done by recent graduates
+- Potential employers are invited to Demo Day events that showcase the skills and work done by recent graduates.
 - Students are encouraged to participate and attend developer dozens of community events hosted on campus and around town during their time in the program. Relationships formed at these events often lay the seeds for future employment opportunities.
 - The school maintains a "reverse job board", used by local employers and hiring partners that lists graduates and alumni who are seeking employment.
 
