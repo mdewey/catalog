@@ -8,8 +8,12 @@ Toni was born in South Carolina, raised in Virginia, and lives in Florida, where
 
 == Gavin Stark, CTO
 
-
+Gavin is a native of Florida and currently resides in St. Petersburg. Fearful he would someday melt under the Florida sun, Gavin took a break from the Sunshine State and studied mathematics and computer science in Rochester, New York and Management Information Systems in Tucson, Arizona. Gavin has been writing software since programs were saved on tape and source code was printed in magazines. When not programming, he can be found wondering if he will ever finish book four of the _'A Song of Fire and Ice'_ series, promoting a future of electric cars, convincing his girlfriend that PopTarts™ should go in the shopping cart since they are healthy because they contain seven minerals, and recently trying his hand at improv comedy.
 
 == Mark Dewey, Core Instructor
 
+Mark has seen success in both the government and commercial arenas of software engineering. Along the way, Mark has developed a passion for mentoring young, and ambitious talent and wants to bring new developers to the next level. 
+
 == Holly Valenty, Program Director
+
+Holly graduated from the University of Florida, and explored Marketing and Tech. She found what she loved most was connecting people to their passions, and is excited to help students with their next career opportunity.
