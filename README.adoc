@@ -1,4 +1,4 @@
-:imagesdir: images
+:imagesdir: /images
 
 This is the Program Catalog for the Suncoast Developers Guild.
 
