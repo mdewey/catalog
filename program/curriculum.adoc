@@ -36,3 +36,5 @@ The breakdown of clock hours for full program is as follows:
 $$
 180 \text { Theory Hours } + 216 \text{ Lab Hours } = 396 \text{ Total Clock Hours }
 $$
+
+
