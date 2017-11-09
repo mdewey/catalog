@@ -14,11 +14,10 @@ St. Petersburg, FL 33701 +
 
 == Business Hours
 
-[columns=2]
+[cols=2]
 |===
-| Monday -- Friday
+| Monday -- Thursday
 | 9am -- 5pm
+| Friday
+| 9am -- 3pm
 |===
-
-Monday -- Friday, 9am -- 5pm.
-
