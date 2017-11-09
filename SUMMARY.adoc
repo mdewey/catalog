@@ -13,7 +13,6 @@
 
 * link:program/README.adoc[Program Description]
 * link:program/curriculum.adoc[Curriculum Overview]
-* link:program/class-schedule.adoc[Class Schedule]
 * link:program/daily-schedule.adoc[Daily Schedule]
 * link:program/application-process.adoc[Application Process]
 * link:program/program-cost.adoc[Program Cost]
