@@ -1,6 +1,26 @@
-. 4 weeks Fundamentals
-. 4 weeks Front-end Frameworks
-. 4 weeks Back-end Frameworks
+=== Fundamentals
+
+Approximately 4 (four) weeks.
+
+==== Web Technology
+
+- Intermediate and advanced HTML & CSS
+- Fundamental JavaScript
+- Internet and HTTP
+
+==== Development Environments
+
+- Version Control
+- Text Editors
+- Command line and shell
+
+=== Front-end Frameworks
+
+Approximately 4 (four) weeks.
+
+=== Back-end Frameworks
+
+Approximately 4 (four) weeks.
 
 == Classwork and Homework
 
@@ -46,6 +66,7 @@ $$
 The suggested computer for students is an Apple MacBook Pro laptop less than two years old.
 
 *Minimum requirements:*
+
 - 2014 or newer (find specific year/models) TODO.
 - PC laptops can be approved for class use on a case by case basis.
 - Approval is part of the interview process.
