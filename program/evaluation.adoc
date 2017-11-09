@@ -1,3 +1,5 @@
+TODO: Re-write some of this, it was lifted heavily from TIY catalog
+
 Suncoast Developers Guild uses Pass/Fail grading system for assignments, and completion of the program is contingent upon a demonstrated proficiency of the curriculum as presented to your instructor.
 
 Instructors will evaluate student performance with the campus director on a bi-weekly basis. If the bi-weekly evaluation shows that a student is having trouble, instructors and the program director may meet with the student to discuss unsatisfactory progress and determine steps to improve performance.
