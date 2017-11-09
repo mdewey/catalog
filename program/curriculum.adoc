@@ -27,3 +27,12 @@ PC laptops can be approved for class use on a case by case basis.
 Approval is part of the interview process.
 
 == Definition of Clock Hours
+
+Clock Hours are defined as not less than 50 minutes of:
+class, lecture, or instructor-supervised laboratory time.
+
+The breakdown of clock hours for full program is as follows:
+
+$$
+180 \text { Theory Hours } + 216 \text{ Lab Hours } = 396 \text{ Total Clock Hours }
+$$
