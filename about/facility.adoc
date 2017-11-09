@@ -10,5 +10,15 @@ St. Petersburg, FL 33701 +
 (727) 201-2012
 
 [horizontal]
-Business hours:: Monday -- Friday, 9am -- 5pm.
+
+
+== Business Hours
+
+[columns=2]
+|===
+| Monday -- Friday
+| 9am -- 5pm
+|===
+
+Monday -- Friday, 9am -- 5pm.
 
