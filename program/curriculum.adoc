@@ -60,7 +60,7 @@ $$
 \begin{aligned}
          & 180 & \text { Theory Hours } \\
 + \space & 216 & \text{ Lab Hours } \\
-  \hline &     & \\
+  \hline
          & 396 & \text{ Total Clock Hours }
 \end{aligned}
 $$
