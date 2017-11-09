@@ -1,5 +1,7 @@
 == Program Outline
 
+TODO: Build this out.
+
 === Fundamentals
 
 Approximately 4 (four) weeks.
