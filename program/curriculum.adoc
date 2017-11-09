@@ -58,10 +58,9 @@ Clock Hours are defined as not less than 50 minutes of: class, lecture, or instr
 
 $$
 \begin{aligned}
-         & 180 & \text { Theory Hours } \\
-+ \space & 216 & \text{ Lab Hours } \\
-  \hline
-         & 396 & \text{ Total Clock Hours }
+180~ & \text { Theory Hours } \\
+\underline{+~216~} & \text{ Lab Hours } \\
+396~ & \text{ Total Clock Hours }
 \end{aligned}
 $$
 
