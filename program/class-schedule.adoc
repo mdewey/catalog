@@ -1,3 +1,0 @@
-. 4 weeks Fundamentals
-. 4 weeks Front-end Frameworks
-. 4 weeks Back-end Frameworks

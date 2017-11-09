@@ -1,37 +1,36 @@
+. 4 weeks Fundamentals
+. 4 weeks Front-end Frameworks
+. 4 weeks Back-end Frameworks
+
 == Classwork and Homework
 
 [horizontal]
+
 Daily Content:: Reading and video content relating information about an idea. Daily Content is given before each class day. It's released by the end of lunch on the previous class day, i.e. Monday's content will be released Friday afternoon. Content will consist of a variety of mediums and sources.
 
-Lab Activity:: _Ungraded_, practice implementing a partially complete idea. It should closely follow examples in the daily content. The student is given most of the idea, similar to filling in blanks. Lab Activities are given during class Monday through Thursday, and are completed the same day.
+Lab Activity:: _Ungraded_ practice implementing a partially complete idea. It should closely follow examples in the daily content. The student is given most of the idea, similar to filling in blanks. Lab Activities are given during class Monday through Thursday, and are completed the same day.
 
-Assignment:: _Graded_, a small project implementing a whole idea it should require an abstraction of the idea presented earlier, as well as integrated with previously covered concepts. The student is usually given _some_ boilerplate to start the assignment. Assignments are given Monday through Wednesday in the afternoon, and due the following morning, before class.
+Assignment:: _Graded_, small projects implementing a whole idea it should require an abstraction of the idea presented earlier, as well as integrated with previously covered concepts. The student is usually given _some_ boilerplate to start the assignment. Assignments are given Monday through Wednesday in the afternoon, and due the following morning, before class.
 
-Projects:: _Graded_, larger multi-day (weekend) assignments that build on ideas presented during the week. Usually built from scratch, but may span building and expanding the same application over multiple weeks. A Project is given on Thursday afternoon, and due the following Monday, before class.
+Projects:: _Graded_, mid-sized multi-day (weekend) assignments that build on ideas presented during the week. Usually built from scratch, but may span building and expanding the same application over multiple weeks. A Project is given on Thursday afternoon, and due the following Monday, before class.
 
-Graded work is assigned tasks over three modes:
+Capstone Project:: A large project that represents the culmination of a student's learning in the program. The project is started 4-6 weeks into the curriculum and is due before graduation at the end of the program. The student will have regular milestone checkins with the instructors to receive guidance on the project. The project's content, design, and scope is determined by the student, subject to instructor approval.
+
+All graded work is assigned tasks over three modes:
 
 [horizontal]
-"Explorer" mode:: A focus on exploring the core concepts, as presented in the content and lectures.
-"Adventure" mode:: A deeper dive into ideas not necessarily covered in class and will usually require research and investigation.
-"Epic" mode:: Requires the student to tie abstract ideas together and bring professional levels of polish and effort to the assignment or project.
+
+Explorer:: A focus on exploring the core concepts, as presented in the content and lectures.
+
+Adventure:: A deeper dive into ideas not necessarily covered in class and will usually require research and investigation.
+
+Epic:: Requires the student to tie abstract ideas together and bring professional levels of polish and effort to the assignment or project.
 
 Career support is a mandatory part of the curriculum.
 
-== Computer requirements
-
-Suggested computer is a Mac less than two years old.
-
-*Minimum requirements:* 2014 or newer (find specific year/models)
-PC laptops can be approved for class use on a case by case basis.
-Approval is part of the interview process.
-
 == Definition of Clock Hours
 
-Clock Hours are defined as not less than 50 minutes of:
-class, lecture, or instructor-supervised laboratory time.
-
-The breakdown of clock hours for full program is as follows:
+Clock Hours are defined as not less than 50 minutes of: class, lecture, or instructor-supervised laboratory time. The breakdown of clock hours for full program is as follows:
 
 $$
 \begin{aligned}
@@ -41,3 +40,12 @@ $$
          & 396 & \text{ Total Clock Hours }
 \end{aligned}
 $$
+
+== Computer requirements
+
+The suggested computer for students is an Apple MacBook Pro laptop less than two years old.
+
+*Minimum requirements:*
+- 2014 or newer (find specific year/models) TODO.
+- PC laptops can be approved for class use on a case by case basis.
+- Approval is part of the interview process.
