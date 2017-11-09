@@ -20,7 +20,7 @@
 * link:program/transcripts.adoc[Transcripts]
 * link:program/code-of-conduct.adoc[Code of Conduct]
 * link:program/cancellation-and-refund-policy.adoc[Cancellation and Refund Policy]
-* link:program/complaints.adoc[Complaints?]
+* link:program/complaints.adoc[Complaints]
 * link:program/notices.adoc[Notices]
 
 
