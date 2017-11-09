@@ -1,8 +1,15 @@
 == Jason L Perry, CEO
 
+Jason is a native Floridian who started building for the web as a teen in the mid-'90s, so he's been a web developer for about as long as anybody. Co-founding the Tampa Ruby Brigade in 2006, Suncoast Developers Guild in 2015, Jason takes pride in being a leader in the local tech community. After stints in academia, startups, and as a consulting freelancer, he's found great joy in mentoring and sharing the knowledge gained along the way. He's also a game development enthusiast, passionate about cryptocurrency, and loves animation. Jason is a father, a skeptic, entirely too opinionated, and prefers a word count in powers of two. When the world gets heavy you can find him either unbuilding LEGO® as catharsis or harnessing his power animal -- the
+panda.
+
 == Toni Warren, President
 
+Toni was born in South Carolina, raised in Virginia, and lives in Florida, where she learnedto love the southeast, sunny weather, and Chihuahuas. After receiving her MBA at the University of Tampa, she began to share the impact of how technology can help nonprofit organizations touch more people. As former Campus Director of The Iron Yard, she understands the needs for talented developers. Her passion is people and believes technology can help people achieve better results, quicker. She is excited about the warm welcome from St. Petersburg/Tampa and looks forward to collaborating with the community to develop amazing developers who want to make awesome things.
+
 == Gavin Stark, CTO
+
+
 
 == Mark Dewey, Core Instructor
 
