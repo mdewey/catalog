@@ -1,5 +1,3 @@
-TODO: Re-write some of this, it was lifted heavily from TIY catalog
-
 Suncoast Developers Guild uses pass or fail grading system for assignments and projects. Completion of the program is depends on a demonstrated proficiency of the curriculum as determined by your instructor.
 
 Instructors evaluate student performance with the program director on a bi-weekly basis. If the evaluation shows that a student is not performing well, instructors and the program director may meet with the student to discuss thier progress, and determine steps to improve performance.
@@ -13,7 +11,7 @@ NOTE: You may not re-enroll in the same program semester if you dropout, or are 
 == Absences and Tardies
 
 - If you are determined to have two (2) tardies in one (1) week, it will be counted as an absence.
-- If you miss more than six (6) lectures, or tally more than six (6) absences, .
+- If you miss more than six (6) lectures, or tally more than six (6) absences, you may not be eligible for career support services, at the discretion of the program director.
 - If will be late to a lecture, give your instructor reasonable notice, by no later than 9:30 AM. If you are late to a lecture, and did not give your instructor notice, it will be at the instructor's discretion whether to count you as tardy.
 - You will not be allowed to make-up any of the missed attendance.
 
@@ -21,7 +19,7 @@ We understand that issues arise; _life happens_. Keeping communication open with
 
 == Graduation Requirements
 
-In order to graduate from the program and to receive a certificate, they must successfully complete the required number of scheduled clock hours as specified in the catalog and on the Student Enrollment Agreement, satisfactorily pass assignments and satisfy all financial obligations to the School.
+In order to graduate from the program and to receive a certificate, they must successfully complete the required number of scheduled clock hours as specified in the catalog and on the Student Enrollment Agreement, satisfactorily pass eighty percent of assignments and projects, and satisfy all financial obligations to the School.
 
 == Certificate of Completion
 
