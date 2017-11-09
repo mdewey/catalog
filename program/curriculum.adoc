@@ -34,7 +34,10 @@ class, lecture, or instructor-supervised laboratory time.
 The breakdown of clock hours for full program is as follows:
 
 $$
-180 \text { Theory Hours } + 216 \text{ Lab Hours } = 396 \text{ Total Clock Hours }
+\begin{aligned}
+         & 180 & \text { Theory Hours } \\
++ \space & 216 & \text{ Lab Hours } \\
+  \hline
+         & 396 & \text{ Total Clock Hours }
+\end{aligned}
 $$
-
-
