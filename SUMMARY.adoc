@@ -2,26 +2,30 @@
 
 == About Suncoast Developers Guild
 
-. link:about/README.adoc[Our Mission]
-. link:about/team.adoc[The Team]
-. link:about/holidays.adoc[Holidays]
-. link:about/facility.adoc[Our Facility]
+* link:README.adoc[Introduction]
+* link:about/README.adoc[Our Mission]
+* link:about/team.adoc[The Team]
+* link:about/holidays.adoc[Holidays]
+* link:about/facility.adoc[Our Facility]
+
 
 == Our Full-time Immersive Program
 
-. link:program/README.adoc[Program Description]
-. link:program/curriculum.adoc[Curriculum Overview]
-.. Definition of Clock Hours
-. Web Development Program
-. Class Schedule
-.. Daily Schedule
-.. Instructor Office Hours
-. How do I apply?
-. How much does it cost?
-. Evaluation
-. Job Placement
-. Transcripts
-. Code of Conduct
-. Cancellation and Refund Policy
-. Any Complaints?
-. Notices
+* link:program/README.adoc[Program Description]
+* link:program/curriculum.adoc[Curriculum Overview]
+** Definition of Clock Hours
+* link:program/web-development-program.adoc[Web Development Program]
+* link:program/class-schedule.adoc[Class Schedule]
+** Daily Schedule
+** link:program/class-schedule/instructor-office-hours.adoc[Instructor Office Hours]
+* How do I apply?
+* How much does it cost?
+* Evaluation
+* Job Placement
+* Transcripts
+* Code of Conduct
+* link:program/cancellation-and-refund-policy.adoc[Cancellation and Refund Policy]
+* Any Complaints?
+* Notices
+
+
