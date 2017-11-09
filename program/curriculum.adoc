@@ -1,3 +1,5 @@
+== Program Outline
+
 === Fundamentals
 
 Approximately 4 (four) weeks.
@@ -60,13 +62,3 @@ $$
          & 396 & \text{ Total Clock Hours }
 \end{aligned}
 $$
-
-== Computer requirements
-
-The suggested computer for students is an Apple MacBook Pro laptop less than two years old.
-
-*Minimum requirements:*
-
-- 2014 or newer (find specific year/models) TODO.
-- PC laptops can be approved for class use on a case by case basis.
-- Approval is part of the interview process.
