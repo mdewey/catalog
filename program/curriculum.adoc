@@ -1,7 +1,41 @@
 == Program Outline
 
-TODO: Build this out.
-
+- Background and Basics
+  * Setting up a development environment
+  * Getting comfortable with the text editor
+  * Version Control & Git
+  * Web Basics: HTML & CSS
+  * How does the internet work? - DNS, HTTP/HTTPS, Browser, etc.
+- Programming Fundamentals
+  * Syntax
+  * Methods/Functions
+  * Control Structures
+- Paradigms
+  * Objects, Constructors, and Object Oriented Programming
+  * Anonymous Functions
+  * Scope, closures, and this
+  * Asynchronous Callbacks and Promises
+- Front-end Frameworks
+  * React
+  * ES2015, Transpiling, Modules
+  * Using Data (via JSON)
+  * webpack
+  * Intermediate CSS
+  * APIs, AJAX & REST
+  * Routing
+  * Managing State
+  * Deploying
+- Back-end Frameworks
+  * Responding to requests
+  * REST + APIs
+  * Templating Engines
+  * Database Basics
+  * SQL
+  * Migrations
+  * Object Relational Mapping
+  * Model-View-Controller
+  * Deploying
+   
 === Fundamentals
 
 Approximately 4 (four) weeks.
@@ -40,7 +74,7 @@ Projects:: _Graded_, mid-sized multi-day (weekend) assignments that build on ide
 
 Capstone Project:: A large project that represents the culmination of a student's learning in the program. The project is started 4-6 weeks into the curriculum and is due before graduation at the end of the program. The student will have regular milestone checkins with the instructors to receive guidance on the project. The project's content, design, and scope is determined by the student, subject to instructor approval.
 
-All graded work is assigned tasks over three modes:
+All graded work is comprised of three modes. Students must complete Explorer mode while Adventure and Epic modes provide students additional practice and learning opportunities.
 
 [horizontal]
 

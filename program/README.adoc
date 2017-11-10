@@ -8,12 +8,12 @@ After completing this program, students will be able to:
 - Utilize version control systems (such as Git) to store and manage source code
 - Utilize the console and text editor to create and manage project resources
 - Read and write computer programs and scripts
-- Understand and explain fundamental programming concepts such as scalar and composite data types, the use of operators, control structures
+- Understand and explain fundamental programming concepts such as scalar and composite data types, the use of operators, and control structures
 - Understand and explain foundational paradigms, such as object-oriented, functional, imperative, declarative, and procedural programming styles
 - Use JavaScript to manipulate the DOM
-- Manage relational data for use in applications
-- Utilize advanced data structures and relationships in applications
-- Research syntax and troubleshoot bugs via documentation and forums online
+- Manage relational data
+- Utilize advanced data structures and relationships
+- Research syntax and troubleshoot bugs via documentation and online forums
 - Explain test driven development and write unit tests
 - Create applications using a JavaScript framework
 - Perform client side HTTP calls to external APIs
