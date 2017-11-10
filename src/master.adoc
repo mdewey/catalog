@@ -1,0 +1,44 @@
+= Program Catalog
+:author: Suncoast Developers Guild
+:email: jason@suncoast.io
+:revnumber: 1.0
+:doctype: book
+:toc:
+:icons: font
+:icon-set: octicon
+:data-uri:
+:lang: en
+:imagesdir: images
+
+include::mission.adoc[]
+
+include::team.adoc[]
+
+include::facility.adoc[]
+
+include::program-description.adoc[]
+
+include::curriculum.adoc[]
+
+include::daily-schedule.adoc[]
+
+include::application-process.adoc[]
+
+include::program-cost.adoc[]
+
+include::evaluation.adoc[]
+
+include::job-placement.adoc[]
+
+include::transcripts.adoc[]
+
+include::code-of-conduct.adoc[]
+
+include::cancellation-and-refund-policy.adoc[]
+
+include::complaints.adoc[]
+
+include::notices.adoc[]
+
+[index]
+= Index

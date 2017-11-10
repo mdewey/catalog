@@ -1,7 +1,0 @@
-{
-    "title": "Program Catalog",
-    "plugins": [ "theme-faq", "katex" ],
-    "structure": {
-        "readme": "README.adoc"
-    }
-}

@@ -1,43 +1,0 @@
-=== Tuition
-
-Tuition is a flat fee of $14,900 for the entire three-month program.
-
-[NOTE]
-====
-- The tuition does not include any costs associated with parking, meals, or any other
-fees not specifically provided for in this catalog or the enrollment agreement.
-- The tuition does not include any costs that may be required for, or associated with, the purchase of a laptop computer.
-====
-
-=== Payment
-
-After being accepted in to the program, you can reserve a seat in our course with a deposit of $1,000. The entire amount of the deposit will be applied to your tuition balance, and the remaining funds will be due before the first day of class. Payment can be made by check, money order, debit, or credit card.
-
-=== Financial Aid
-
-Suncoast Developers Guild does not current participate in any Federal Guarantee Student Loads or Pell Grant programs.
-
-=== Scholarships
-
-Suncoast Developers Guild does not currently offer a scholarship program.
-
-=== Hardware Requirements
-
-The suggested computer for students is an Apple MacBook Pro laptop less than two years old.
-
-*Minimum requirements:*
-
-- 8GB of RAM
-- 500GB HDD
-- macOS High Sierra (10.13)
-  * or Windows 10, subject to approval (see below)
-
-Why a Mac? All of our students being on the same platform enables us to move at a much quicker pace. Processes like setting up new tools experience reduced friction because the same workflows apply to everyone.
-
-Additionally, The open source and web development communities are invested in tools and libraries that work best with POSIX based operating systems like UNIX, Linux, and Apple's macOS (BSD Unix). In short, we believe using the macOS best prepares our students to work in the web development industry.
-
-Students who choose to study .NET development with us may also find substantial benefit from using macOS. A PC laptops can be approved for class use on a case by case basis during the interview process.
-
-=== Software Requirements
-
-The tools and materials used in our program are open source and free.

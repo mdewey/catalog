@@ -1,0 +1,21 @@
+== Daily Schedule
+
+[options="header"]
+|===
+|          | Monday -- Thursday    | Friday
+| 09:00 AM | ((Instructor's Hour)) | ((Career Support)) Lab
+| 10:00 AM | Class                 | Career Support Lecture
+| 11:00 AM | "                     | Weekly Review (or extended Career Support)
+| 12:00 PM | Lunch                 | Lunch (((lunch)))
+| 01:00 PM | Lab                   | Lab
+| 02:00 PM | ((Review at Two))     | ((Huddles))
+| 03:00 PM | Lab                   | End of Day / Optional Social Time
+| 04:00 PM | "                     |
+| 05:00 PM | End of Day            |
+|===
+
+(((schedule))) The day for students begins at 10am with two hours of class time (lecture, activities, etc.). After lunch is an hour of ((lab)) time where students will begin work on the day's assignment. At 2pm class will reconvene for an hour to reinforce the days concepts and answer questions that may arise while working on the assignment. Following the review, lab hours continue for the rest of the afternoon.
+
+The day for instructors begins at 9am. While the instructors _may_ be available to answer questions, this time is typically reserved for planning the day's lecture and activities, and grading assignments. Instructors will be available for answering questions and one-on-one mentoring during lab hours. Students can use this time to do ((warmup exercises)) and review daily content.
+
+Fridays are similar in structure and ((schedule)) to the rest of the week, but class hour content will be different (e.g. ((Career Support)), guest speakers). Fridays end early with optional off-campus ((social time)). (((guest lectures)))
