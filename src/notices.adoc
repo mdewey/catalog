@@ -1,13 +1,13 @@
 == Notices
 
-Suncoast Developers Guild, Inc. is a ((not-for-profit)) corporation registered with the State of Florida.
+Suncoast Developers Guild, Inc. is a not-for-profit corporation registered with the State of Florida.
 
 Jason L Perry, CEO +
 Toni Warren, President
 
 ---
 
-Licensed by the ((Commission for Independent Education)), Florida Department of Education.
+Licensed by the Commission for Independent Education, Florida Department of Education.
 
 Additional information regarding this institution may be obtained by contacting the
 Commission at 325 West Gaines St., Ste. 1414, Tallahassee, FL 32399-0400, toll-free
@@ -19,4 +19,4 @@ Suncoast Developers Guild, Inc. does not and shall not discriminate on the basis
 
 ---
 
-Suncoast Developers Guild, Inc. is an equal opportunity employer. We will not discriminate and will take affirmative action measures to ensure against ((discrimination)) in employment, recruitment, advertisements for employment, compensation, termination, upgrading, promotions, and other conditions of employment against any employee or job applicant on the bases of race, color, national origin, religion, creed, age, disability, military or veteran's status, sexual orientation, gender, gender identity, or gender expression.
+Suncoast Developers Guild, Inc. is an equal opportunity employer. We will not discriminate and will take affirmative action measures to ensure against discrimination in employment, recruitment, advertisements for employment, compensation, termination, upgrading, promotions, and other conditions of employment against any employee or job applicant on the bases of race, color, national origin, religion, creed, age, disability, military or veteran's status, sexual orientation, gender, gender identity, or gender expression.

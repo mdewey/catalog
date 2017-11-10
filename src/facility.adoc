@@ -1,22 +1,22 @@
 == Our Facility
 
-Suncoast Developers Guild operates from downtown ((St. Petersburg))’s thriving business and innovation district, with easy access to beautiful waterfront parks, restaurants, craft breweries and entertainment.
+Suncoast Developers Guild operates from downtown St. Petersburg’s thriving business and innovation district, with easy access to beautiful waterfront parks, restaurants, craft breweries and entertainment.
 
-The ((facility)) has all necessary equipment to offer an excellent learning experience, including but not limited to: desks, chairs, projectors, a/v system, high-speed Internet access, whiteboards and a reading library.
+The facility has all necessary equipment to offer an excellent learning experience, including but not limited to: desks, chairs, projectors, a/v system, high-speed Internet access, whiteboards and a reading library.
 
 The facility includes a classroom to accommodate 30 students, in addition to common areas for social gatherings and breakout sessions.
 
-Suncoast Developers Guild (((address))) +
+Suncoast Developers Guild +
 100 7th St S +
 St. Petersburg, FL 33701 +
 
-(727) 201-2012 (((phone number)))
+(727) 201-2012
 
 === Business Hours
 
 [cols=2]
 |===
-| Monday -- Thursday (((hours)))
+| Monday -- Thursday
 | 9am -- 5pm
 | Friday
 | 9am -- 3pm
@@ -24,7 +24,7 @@ St. Petersburg, FL 33701 +
 
 === Observed Holidays
 
-Suncoast Developers Guild observes the following ((holidays)). The facility will be closed and classes will not meet on the these days:
+Suncoast Developers Guild observes the following holidays. The facility will be closed and classes will not meet on the these days:
 
 - New Year's Day
 - Martin Luther King's Birthday

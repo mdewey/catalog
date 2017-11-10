@@ -41,6 +41,3 @@ include::cancellation-and-refund-policy.adoc[]
 include::complaints.adoc[]
 
 include::notices.adoc[]
-
-[index]
-= Index
