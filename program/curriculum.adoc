@@ -1,64 +1,51 @@
 == Program Outline
 
+=== Fundamentals
+
 - Background and Basics
   * Setting up a development environment
   * Getting comfortable with the text editor
   * Version Control & Git
-  * Web Basics: HTML & CSS
-  * How does the internet work? - DNS, HTTP/HTTPS, Browser, etc.
+  * Web basics: HTML & CSS
+  * How does the internet work? - DNS, HTTP/HTTPS, browsers, etc.
 - Programming Fundamentals
   * Syntax
-  * Methods/Functions
-  * Control Structures
+  * Methods and functions
+  * Control structures
 - Paradigms
-  * Objects, Constructors, and Object Oriented Programming
-  * Anonymous Functions
-  * Scope, closures, and this
-  * Asynchronous Callbacks and Promises
-- Front-end Frameworks
-  * React
-  * ES2015, Transpiling, Modules
-  * Using Data (via JSON)
+  * Objects, constructors, and object-oriented programming
+  * Anonymous functions
+  * Scope, closures, and `this`
+  * Asynchronous programming; callbacks and promises
+
+=== Front-end Frameworks
+
+- Modern JavaScript tooling
   * webpack
-  * Intermediate CSS
-  * APIs, AJAX & REST
-  * Routing
-  * Managing State
+  * ES2015+, transpiling, modules
   * Deploying
-- Back-end Frameworks
+- React
+  * Component driven design
+  * Routing
+  * Managing complex state
+- Intermediate Web Concepts
+  * Using data (via JSON)
+  * Intermediate CSS
+  * APIs, AJAX, and REST
+
+=== Back-end Frameworks
+
+- Working with servers
   * Responding to requests
   * REST + APIs
   * Templating Engines
+  * Deploying
+  * Model-View-Controller
+- Working with data
   * Database Basics
   * SQL
   * Migrations
   * Object Relational Mapping
-  * Model-View-Controller
-  * Deploying
-   
-=== Fundamentals
-
-Approximately 4 (four) weeks.
-
-==== Web Technology
-
-- Intermediate and advanced HTML & CSS
-- Fundamental JavaScript
-- Internet and HTTP
-
-==== Development Environments
-
-- Version Control
-- Text Editors
-- Command line and shell
-
-=== Front-end Frameworks
-
-Approximately 4 (four) weeks.
-
-=== Back-end Frameworks
-
-Approximately 4 (four) weeks.
 
 == Classwork and Homework
 

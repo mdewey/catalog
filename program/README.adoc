@@ -1,25 +1,3 @@
 This course of instruction prepares individuals for entry-level jobs as front-end or back-end engineers, and web developers. Graduates will be able find employment with companies who build and maintain their own websites and web applications (i.e. product work), or with agencies that produce websites and web applications for other companies (i.e. client work).
 
 Students will learn client-side (front-end) technology: HTML, CSS, and JavaScript as well as server-side (back-end) technology such as .NET or Ruby on Rails. At the end of the course, students will be able to create beautiful, fully functional websites backed by databases and server-side applications.
-
-After completing this program, students will be able to:
-
-- Use HTML and CSS to create static web pages
-- Utilize version control systems (such as Git) to store and manage source code
-- Utilize the console and text editor to create and manage project resources
-- Read and write computer programs and scripts
-- Understand and explain fundamental programming concepts such as scalar and composite data types, the use of operators, and control structures
-- Understand and explain foundational paradigms, such as object-oriented, functional, imperative, declarative, and procedural programming styles
-- Use JavaScript to manipulate the DOM
-- Manage relational data
-- Utilize advanced data structures and relationships
-- Research syntax and troubleshoot bugs via documentation and online forums
-- Explain test driven development and write unit tests
-- Create applications using a JavaScript framework
-- Perform client side HTTP calls to external APIs
-- Create and secure APIs
-- Deploy applications to cloud providers
-- Create a professional portfolio of projects and write resumes and cover letters
-- Explain the differences between freelancing and full-time work
-- Plan a software project from idea to completion
-- Execute a project plan and deploy a project
