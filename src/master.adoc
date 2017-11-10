@@ -1,5 +1,4 @@
 = Program Catalog
-:author: Suncoast Developers Guild
 :email: jason@suncoast.io
 :revnumber: 1.0
 :doctype: book
@@ -41,3 +40,8 @@ include::cancellation-and-refund-policy.adoc[]
 include::complaints.adoc[]
 
 include::notices.adoc[]
+
+[colophon]
+= Colophon
+
+(C) 2017 Suncoast Developers Guild, Inc.
