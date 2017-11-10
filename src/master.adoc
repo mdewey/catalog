@@ -8,7 +8,7 @@
 :icon-set: octicon
 :data-uri:
 :lang: en
-:imagesdir: images
+:imagesdir: ../images
 
 include::mission.adoc[]
 
@@ -18,7 +18,9 @@ include::facility.adoc[]
 
 include::program-description.adoc[]
 
-include::curriculum.adoc[]
+include::program-outline.adoc[]
+
+include::classwork-and-homework.adoc[]
 
 include::daily-schedule.adoc[]
 

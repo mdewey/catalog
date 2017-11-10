@@ -10,7 +10,7 @@ jason@suncoast.io
 
 === Toni Warren, President
 
-((Toni)) (((President))) was born in South Carolina, raised in Virginia, and lives in Florida, where she learnedto love the southeast, sunny weather, and Chihuahuas. After receiving her MBA at the University of Tampa, she began to share the impact of how technology can help nonprofit organizations touch more people. As former Campus Director of The Iron Yard, she understands the needs for talented developers. Her passion is people and believes technology can help people achieve better results, quicker. She is excited about the warm welcome from St. Petersburg/Tampa and looks forward to collaborating with the community to develop amazing developers who want to make awesome things.
+((Toni)) (((President))) was born in South Carolina, raised in Virginia, and lives in Florida, where she learnedto love the southeast, sunny weather, and Chihuahuas. After receiving her MBA at the University of Tampa, she began to share the impact of how technology can help nonprofit organizations touch more people. As former Campus Director of The Iron Yard, she understands the needs for talented developers. Her passion is people and believes technology can help people achieve better results, quicker. She is excited about the warm welcome from St. Petersburg/Tampa and looks forward to collaborating with the community to develop amazing developers who want to make awesome things.
 
 image::toni.jpg[]
 

@@ -1,61 +1,4 @@
-== Curriculum
-(((curriculum)))
-
-=== Program Outline
-
-==== Fundamentals
-(((fundamentals)))
-
-- Background and Basics
-  * Setting up a development environment
-  * Getting comfortable with the text editor
-  * Version Control & Git
-  * Web basics: HTML & CSS
-  * How does the internet work? - DNS, HTTP/HTTPS, browsers, etc.
-- Programming Fundamentals
-  * Syntax
-  * Methods and functions
-  * Control structures
-- Paradigms
-  * Objects, constructors, and object-oriented programming
-  * Anonymous functions
-  * Scope, closures, and `this`
-  * Asynchronous programming; callbacks and promises
-
-==== Front-end Frameworks
-(((front-end)))
-
-- Modern JavaScript tooling
-  * webpack
-  * ES2015+, transpiling, modules
-  * Deploying
-- React
-  * Component driven design
-  * Routing
-  * Managing complex state
-- Intermediate Web Concepts
-  * Using data (via JSON)
-  * Intermediate CSS
-  * APIs, AJAX, and REST
-
-==== Back-end Frameworks
-(((back-end)))
-
-- Working with servers
-  * Responding to requests
-  * REST + APIs
-  * Templating Engines
-  * Deploying
-  * Model-View-Controller
-- Working with data
-  * Database Basics
-  * SQL
-  * Migrations
-  * Object Relational Mapping
-
-<<<
-
-=== Classwork and Homework
+== Classwork and Homework
 
 ((Daily Content)):: Reading and video content relating information about an idea. Daily Content is given before each class day. It's released by the end of lunch on the previous class day, i.e. Monday's content will be released Friday afternoon. Content will consist of a variety of mediums and sources.
 
@@ -67,9 +10,7 @@
 
 ((Capstone Project)):: A large project that represents the culmination of a student's learning in the program. The project is started 4-6 weeks into the curriculum and is due before graduation at the end of the program. The student will have regular milestone checkins with the instructors to receive guidance on the project. The project's content, design, and scope is determined by the student, subject to instructor approval.
 
-(((classwork))) (((homework))) (((grading))) All graded work is comprised of three modes. Students must complete Explorer mode while Adventure and Epic modes provide students additional practice and learning opportunities.
-
-[horizontal]
+Graded work, typically, is comprised of three modes. Students must complete Explorer mode while Adventure and Epic modes provide students additional practice and learning opportunities.
 
 ((Explorer Mode)):: A focus on exploring the core concepts, as presented in the content and lectures.
 
@@ -78,13 +19,3 @@
 ((Epic Mode)):: Requires the student to tie abstract ideas together and bring professional levels of polish and effort to the assignment or project.
 
 ((Career Support)) is a mandatory part of the curriculum.
-
-=== Definition of Clock Hours
-
-Clock Hours are defined as not less than 50 minutes of: class, lecture, or instructor-supervised laboratory time. The breakdown of ((clock hours)) for full program is as follows:
-
-> 180 Theory Hours + 216 Lab Hours = 396 Total Clock Hours
-
-=== Transfer of Academic Credit
-
-We do not accept any transfer credits or clock hours and we cannot offer any ((academic credit)) when you complete the program. Transfer of clock hours earned at Suncoast Developers Guild is at the discretion of the accepting institution.

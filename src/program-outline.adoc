@@ -1,0 +1,81 @@
+=== Fundamentals
+
+The first unit of the program will cover fundamental skills for software developers. Students will get to know their development environment and tools while diving into the core web technologies: HTML, CSS, and JavaScript.
+
+[cols="s,"]
+.Example topics for Fundamentals
+|===
+ | Background and Basics (((fundamentals)))
+a|
+* Setting up a development environment
+* Getting comfortable with the text editor
+* Version Control & Git
+* Web basics: HTML & CSS
+* How does the internet work? - DNS, HTTP/HTTPS, browsers, etc.
+
+ | Programming Fundamentals
+a|
+* Syntax
+* Methods and functions
+* Control structures
+
+ | Paradigms
+a|
+* Objects, constructors, and object-oriented programming
+* Anonymous functions
+* Scope, closures, and `this`
+* Asynchronous programming; callbacks and promises
+|===
+
+<<<
+
+=== Front-end Frameworks
+
+Going into the second unit, students will get hands-on experience with the latest best practices for modern JavaScript development. Students will learn about building complex interactive applications with React, a popular JavaScript library for building user interfaces.
+
+[cols="s,"]
+.Example topics for Front-end Frameworks
+|===
+ | Modern JavaScript tooling (((front-end)))
+a|
+* webpack
+* ES2015+, transpiling, modules
+* Deploying
+
+ | React
+a|
+* Component driven design
+* Routing
+* Managing complex state
+
+ | Intermediate Web Concepts
+a|
+* Using data (via JSON)
+* Intermediate CSS
+* APIs, AJAX, and REST
+|===
+
+<<<
+
+=== Back-end Frameworks
+
+In the final unit, students will round out their full-stack toolkit with a exploration of the server-side technologies that power applications on the web and mobile devices. Students will be able to choose to focus on either the Ruby on Rails (and the Ruby programming language) or .NET (and the C# programming language).
+
+[cols="s,"]
+.Example topics for Back-end Frameworks
+|===
+ | Working with servers (((back-end)))
+a|
+* Responding to requests
+* REST + APIs
+* Templating Engines
+* Deploying
+* Model-View-Controller
+
+ | Working with data
+a|
+* Database Basics
+* SQL
+* Migrations
+* Object Relational Mapping
+|===

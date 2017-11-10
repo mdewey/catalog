@@ -1,5 +1,5 @@
 task :pdf do
-  system "asciidoctor-pdf -o output/catalog.pdf src/master.adoc"
+  system "asciidoctor-pdf -a pdf-stylesdir=src -a pdf-fontsdir=fonts -a pdf-style=sdg -o output/catalog.pdf src/master.adoc"
 end
 
 task :watch do
