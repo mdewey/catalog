@@ -59,7 +59,7 @@ a|
 
 === Back-end Frameworks
 
-In the final unit, students will round out their full-stack toolkit with a exploration of the server-side technologies that power applications on the web and mobile devices. Students will be able to choose to focus on either the Ruby on Rails (and the Ruby programming language) or .NET (and the C# programming language).
+In the final unit, students will round out their full-stack toolkit with a exploration of the server-side technologies that power applications on the web and mobile devices. Students will be able to choose a focus, such as: Ruby on Rails (and the Ruby programming language) or .NET (and the C# programming language).
 
 [cols="s,"]
 .Example topics for Back-end Frameworks
