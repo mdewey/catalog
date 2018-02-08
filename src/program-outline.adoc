@@ -23,7 +23,7 @@ a|
 a|
 * Objects, constructors, and object-oriented programming
 * Anonymous functions
-* Scope, closures, and `this`
+* Scope, closures, and "this"
 * Asynchronous programming; callbacks and promises
 |===
 

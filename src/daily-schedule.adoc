@@ -4,18 +4,18 @@
 .Typical daily schedule
 |===
 |             | Monday -- Thursday    | Friday
-| 08:00 AM    | Instructor's Hour | Career Support Lab
-| 09:30 AM .2+| Class                 | Career Support Lecture
-| 10:30 AM                            | Weekly Review (or extended Career Support)
+| 08:00 AM    | Stand Up, Coding Challenge | Lab
+| 09:30 AM .2+| Lecture                 | 
+| 10:30 AM                            | Huddles
 | 11:30 PM    | Lunch                 | Lunch
-| 12:30 PM    | Lab                   | Lab
-| 02:00 PM    | Review at Two     | Huddles
-| 03:00 PM .2+| Lab                .2+| End of Day / Optional Social Time
-| 04:00 PM    | End of Day
+| 12:30 PM    | Lab                   | Lab or Group Review Time
+| 02:00 PM    | Review     | PROforma on boarding and workshops 
+| 03:00 PM .2+| Lab                .2+|
+| 04:00 PM    | End of Day            | End of Day
 |===
 
 Each day will begin at 8am with a daily stand up and a coding challenge. This will be time to for trainees to practice getting into a routine with a daily stand up. The stand up will be a time for trainee to say voice where they are struggling and where they feel like they are excelling. After the brief stand up, the instructor will issue a code challenge. This brief code challenge will be a simple problem to review the following days work, while giving the students more practice in solving problems. While this is going on the instructor will be planning the day’s material and lessons based on the feedback from the stand up. The instructor will review the code challenge before lecture starts.
 
-After lunch is lab time where students will begin work on the day’s assignment. At 2pm class will reconvene for an hour to reinforce the days concepts and answer questions that may arise while working on the assignment. Following the review, lab hours continue for the rest of the afternoon. Instructors will be available for answering questions and one-on-one mentoring during lab hours.
+After lunch is lab time where students will begin work on the day’s assignment. At 2pm program will reconvene for an hour to reinforce the days concepts and answer questions that may arise while working on the assignment. Following the review, lab hours continue for the rest of the afternoon. Instructors will be available for answering questions and one-on-one mentoring during lab hours.
 
-Fridays are similar in structure and schedule to the rest of the week, but class hour content will be different (e.g. Career Support, guest speakers). Fridays end early with optional off-campus social time.
+Fridays are similar in structure and schedule to the rest of the week, but content will be different (e.g. Huddles, soft skills, on boarding).

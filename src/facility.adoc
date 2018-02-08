@@ -1,11 +1,11 @@
-=== Campus Hours
+=== Program Hours
 
 [cols=2]
 |===
 | Monday -- Thursday
-| 9am -- 5pm
+| 8am -- 4pm
 | Friday
-| 9am -- 3pm
+| 8am -- 4pm
 |===
 
 === Observed Holidays

@@ -4,7 +4,7 @@ Daily Content:: Reading and video content relating information about an idea. Da
 
 Lab Activity:: _Ungraded_ practice implementing a partially complete idea. It should closely follow examples in the daily content. The trainee is given most of the idea, similar to filling in blanks. Lab Activities are given during class Monday through Thursday, and are completed the same day.
 
-Assignments:: _Graded_, small projects implementing a whole idea it should require an abstraction of the idea presented earlier, as well as integrated with previously covered concepts. The trainee is usually given _some_ boilerplate to start the assignment. Assignments are given Monday through Wednesday in the afternoon, and due the following morning, before class.
+Assignments:: _Graded_, small projects implementing a whole idea it should require an abstraction of the idea presented earlier, as well as integrated with previously covered concepts. The trainee is usually given _some_ boilerplate to start the assignment. Assignments are given Monday through Wednesday in the afternoon, and are due by an assigned due date.
 
 Projects:: _Graded_, mid-sized multi-day (weekend) assignments that build on ideas presented during the week. Usually built from scratch, but may span building and expanding the same application over multiple weeks. A Project is given on Thursday afternoon, and due the following Monday, before class.
 
