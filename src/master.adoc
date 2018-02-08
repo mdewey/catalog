@@ -1,4 +1,4 @@
-= PROforma & Suncaost Developers Guild Catalog
+= PROforma & Suncoast Developers Guild Catalog
 :email: mark@suncoast.io
 :author: Effective January 1st, 2018
 :revnumber: 1.0
