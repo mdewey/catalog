@@ -1,18 +1,4 @@
-== Our Facility
-
-Suncoast Developers Guild operates from downtown St. Petersburg’s thriving business and innovation district, with easy access to beautiful waterfront parks, restaurants, craft breweries and entertainment.
-
-The facility has all necessary equipment to offer an excellent learning experience, including but not limited to: desks, chairs, projectors, a/v system, high-speed Internet access, whiteboards and a reading library.
-
-The facility includes a classroom to accommodate 30 students, in addition to common areas for social gatherings and breakout sessions.
-
-Suncoast Developers Guild +
-100 7th St S +
-St. Petersburg, FL 33701 +
-
-(727) 201-2012
-
-=== Business Hours
+=== Campus Hours
 
 [cols=2]
 |===

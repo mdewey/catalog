@@ -23,13 +23,6 @@
 
 [cols="1,6"]
 |===
- 2+h| Holly Valenty, Program Director
-   a| image::holly.jpg[100,100,align=center]
-    | Holly is born and raised in St. Petersburg, Florida. She is a graduate of the University of Florida, where she studied Family, Youth, and Community Science and became an avid Gator football fan. After completing her degree, Holly worked within Marketing and the Tech industry. She found what she loved most was connecting people to their passions, and exploring new ways to improve the world around us. Holly is passionate about helping students change their lives through a new career. When not working with students, Holly can be found cuddling her dog, Lola, learning to code, or exploring new restaurants.
-|===
-
-[cols="1,6"]
-|===
  2+h| Mark Dewey, Core Instructor
    a| image::mark.jpg[100,100,align=center]
     | Mark has seen success in both the government and commercial arenas of software engineering. Graduating from University of Pitt at Johnstown with a BS in Computer Science, Mark has fostered a love of being a lifelong learner. Through his journey of building a wide variety of software, Mark has found a passion for revolutionizing industries and a drive to improve people’s lives through new technology and paradigms. When not trying to change the world, Mark can be found outside enjoying the sun in his hammock, learning a new hobby or redesigning a bad user experience. Over the years, Mark has developed a passion for mentoring young and ambitious talent, and wants to bring developer training to the next level.

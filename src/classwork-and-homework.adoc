@@ -2,20 +2,20 @@
 
 Daily Content:: Reading and video content relating information about an idea. Daily Content is given before each class day. It's released by the end of lunch on the previous class day, i.e. Monday's content will be released Friday afternoon. Content will consist of a variety of mediums and sources.
 
-Lab Activity:: _Ungraded_ practice implementing a partially complete idea. It should closely follow examples in the daily content. The student is given most of the idea, similar to filling in blanks. Lab Activities are given during class Monday through Thursday, and are completed the same day.
+Lab Activity:: _Ungraded_ practice implementing a partially complete idea. It should closely follow examples in the daily content. The trainee is given most of the idea, similar to filling in blanks. Lab Activities are given during class Monday through Thursday, and are completed the same day.
 
-Assignments:: _Graded_, small projects implementing a whole idea it should require an abstraction of the idea presented earlier, as well as integrated with previously covered concepts. The student is usually given _some_ boilerplate to start the assignment. Assignments are given Monday through Wednesday in the afternoon, and due the following morning, before class.
+Assignments:: _Graded_, small projects implementing a whole idea it should require an abstraction of the idea presented earlier, as well as integrated with previously covered concepts. The trainee is usually given _some_ boilerplate to start the assignment. Assignments are given Monday through Wednesday in the afternoon, and due the following morning, before class.
 
 Projects:: _Graded_, mid-sized multi-day (weekend) assignments that build on ideas presented during the week. Usually built from scratch, but may span building and expanding the same application over multiple weeks. A Project is given on Thursday afternoon, and due the following Monday, before class.
 
-Capstone Project:: A large project that represents the culmination of a student's learning in the program. The project is started 4-6 weeks into the curriculum and is due before graduation at the end of the program. The student will have regular milestone checkins with the instructors to receive guidance on the project. The project's content, design, and scope is determined by the student, subject to instructor approval.
+Capstone Project:: A large project that represents the culmination of a trainee's learning in the program. The project is started 4-6 weeks into the curriculum and is due before graduation at the end of the program. The trainee will have regular milestone checkins with the instructors to receive guidance on the project. The project's content, design, and scope is determined by the trainee, subject to instructor approval.
 
-Graded work, typically, is comprised of three modes. Students must complete Explorer mode while Adventure and Epic modes provide students additional practice and learning opportunities.
+Graded work, typically, is comprised of three modes. Trainees must complete Explorer mode while Adventure and Epic modes provide trainees additional practice and learning opportunities.
 
 Explorer Mode:: A focus on exploring the core concepts, as presented in the content and lectures.
 
 Adventure Mode:: A deeper dive into ideas not necessarily covered in class and will usually require research and investigation.
 
-Epic Mode:: Requires the student to tie abstract ideas together and bring professional levels of polish and effort to the assignment or project.
+Epic Mode:: Requires the trainee to tie abstract ideas together and bring professional levels of polish and effort to the assignment or project.
 
 Career Support is a mandatory part of the curriculum.

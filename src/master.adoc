@@ -1,5 +1,5 @@
-= Program Catalog
-:email: jason@suncoast.io
+= PROforma & Suncaost Developers Guild Catalog
+:email: mark@suncoast.io
 :author: Effective January 1st, 2018
 :revnumber: 1.0
 :doctype: book
@@ -41,8 +41,5 @@ include::cancellation-and-refund-policy.adoc[]
 include::complaints.adoc[]
 
 include::notices.adoc[]
-
-[colophon]
-= Colophon
 
 (C) 2017 Suncoast Developers Guild, Inc.

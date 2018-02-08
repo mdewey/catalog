@@ -1,6 +1,6 @@
 === Fundamentals
 
-The first unit of the program will cover fundamental skills for software developers. Students will get to know their development environment and tools while diving into the core web technologies: HTML, CSS, and JavaScript.
+The first unit of the program will cover fundamental skills for software developers. Trainees will get to know their development environment and tools while diving into the core web technologies: HTML, CSS, and JavaScript.
 
 [cols="s,"]
 .Example topics for Fundamentals
@@ -31,22 +31,16 @@ a|
 
 === Front-end Frameworks
 
-Going into the second unit, students will get hands-on experience with the latest best practices for modern JavaScript development. Students will learn about building complex interactive applications with React, a popular JavaScript library for building user interfaces.
+Going into the second unit, trainees will get hands-on experience with the latest best practices for modern JavaScript development. Trainees will learn about building complex interactive applications with AngularJS, a popular JavaScript library for building user interfaces.
 
 [cols="s,"]
 .Example topics for Front-end Frameworks
 |===
  | Modern JavaScript tooling
 a|
-* webpack
 * ES2015+, transpiling, modules
 * Deploying
-
- | React
-a|
-* Component driven design
-* Routing
-* Managing complex state
+* Dependency Injection
 
  | Intermediate Web Concepts
 a|
@@ -59,7 +53,7 @@ a|
 
 === Back-end Frameworks
 
-In the final unit, students will round out their full-stack toolkit with a exploration of the server-side technologies that power applications on the web and mobile devices. Students will be able to choose a focus, such as: Ruby on Rails (and the Ruby programming language) or .NET (and the C# programming language).
+In the final unit, trainees will round out their full-stack toolkit with a exploration of the server-side technologies that power applications on the web and mobile devices.
 
 [cols="s,"]
 .Example topics for Back-end Frameworks
