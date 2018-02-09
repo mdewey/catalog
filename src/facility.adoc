@@ -2,15 +2,13 @@
 
 [cols=2]
 |===
-| Monday -- Thursday
-| 8am -- 4pm
-| Friday
+| Monday -- Friday
 | 8am -- 4pm
 |===
 
 === Observed Holidays
 
-Suncoast Developers Guild observes the following holidays. The facility will be closed and classes will not meet on the these days:
+Suncoast Developers Guild observes the following holidays. The facility will be closed will not meet on the these days:
 
 - New Year's Day
 - Martin Luther King's Birthday

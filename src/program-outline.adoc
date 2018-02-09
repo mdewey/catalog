@@ -11,7 +11,7 @@ a|
 * Getting comfortable with the text editor
 * Version Control & Git
 * Web basics: HTML & CSS
-* How does the internet work? - DNS, HTTP/HTTPS, browsers, etc.
+* How does the internet work?
 
  | Programming Fundamentals
 a|
