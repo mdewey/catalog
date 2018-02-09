@@ -1,4 +1,4 @@
-= PROforma & Suncoast Developers Guild Catalog
+= Training Catalog
 :email: mark@suncoast.io
 :author: Effective February 1st, 2018
 :revnumber: 1.0
