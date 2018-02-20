@@ -4,4 +4,12 @@
 
 Trainees will learn client-side (front-end) technology: HTML, CSS, and JavaScript as well as server-side (back-end) technology with .NET. At the end of the program, trainees will be able to create beautiful, fully functional websites backed by databases and server-side applications.
 
+=== Prework
+
+Prework is provided to help the trainees prepare for the course. This creates context for what the trainee will be learning in the course. 
+
+The latest version of the prework is found at: 
+
+https://mdewey.gitbooks.io/proforma-prework/content/
+
 <<<
