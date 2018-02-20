@@ -9,7 +9,7 @@
 | 10:30 AM                            | Huddles
 | 11:30 AM    | Lunch                 | Lunch
 | 12:30 PM    | Lab                   | Lab or Group Review Time
-| 02:00 PM    | Review     | PROforma on boarding and workshops 
+| 02:00 PM    | Review     | PROforma Onboarding and Workshops 
 | 03:00 PM .2+| Lab                .2+|
 | 04:00 PM    | End of Day            | End of Day
 |===
