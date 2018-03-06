@@ -7,8 +7,8 @@
 | 08:00 AM    | Stand Up, Coding Challenge | Lab
 | 09:30 AM .2+| Lecture                 | 
 | 10:30 AM                            | Huddles
-| 11:30 AM    | Lunch                 | Lunch
-| 12:30 PM    | Lab                   | Lab or Group Review Time
+| 11:30 AM    | Lunch                 | Lab or Group Review Time
+| 12:30 PM    | Lab                   | Lunch
 | 02:00 PM    | Review     | PROforma Onboarding and Workshops 
 | 03:00 PM .2+| Lab                .2+|
 | 04:00 PM    | End of Day            | End of Day
